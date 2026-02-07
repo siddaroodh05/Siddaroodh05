@@ -7,7 +7,7 @@
 ## About Me
 I’m <Siddaroodh>, a a CS undergraduate based in India, building practical software solutions and constantly learning.
 
-- 🌱Expanding skills in FastAPI, PostgreSQL, and AWS
+- 🌱Expanding skills in FastAPI, PostgreSQL
 - 📫 Reach me at: <siddaroodh2004@gmail.com>
 
 ---
