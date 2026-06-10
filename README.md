@@ -8,7 +8,7 @@
 
 - 🌱Expanding skills in FastAPI, PostgreSQL
 - 📫 Reach me at: <siddaroodhv@gmail.com>
-- portfolio :https://siddaroodh-portfolio.vercel.app/
+- check out my  portfolio : https://siddaroodh-portfolio.vercel.app/
 ---
 <p>
   <a href="https://www.python.org/" title="Python"><img src="https://cdn.simpleicons.org/python" alt="Python" height="28"/></a>
