@@ -1,6 +1,6 @@
 # Hi, I’m Siddaroodh 👋
 
-> AI/ML-focused CS student passionate about problem-solving and software development
+>  Computer Science student passionate about problem-solving and software development
 
 ---
 
@@ -8,7 +8,7 @@
 I’m <Siddaroodh>, a a CS undergraduate based in India, building practical software solutions and constantly learning.
 
 - 🌱Expanding skills in FastAPI, PostgreSQL
-- 📫 Reach me at: <siddaroodh2004@gmail.com>
+- 📫 Reach me at: <siddaroodhv@gmail.com>
 
 ---
 <p>
