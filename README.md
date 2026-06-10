@@ -5,7 +5,6 @@
 ---
 
 ## About Me
-I’m <Siddaroodh>, a a CS undergraduate based in India, building practical software solutions and constantly learning.
 
 - 🌱Expanding skills in FastAPI, PostgreSQL
 - 📫 Reach me at: <siddaroodhv@gmail.com>
