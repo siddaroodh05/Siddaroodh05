@@ -30,7 +30,6 @@ I'm particularly interested in **backend architecture, API design, authenticatio
   <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" height="28"/>
   <img src="https://cdn.simpleicons.org/springsecurity" alt="Spring Security" height="28"/>
   <img src="https://cdn.simpleicons.org/hibernate" alt="Hibernate" height="28"/>
-  <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" height="28"/>
 </p>
 
 ### Database & Tools
