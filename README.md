@@ -22,12 +22,7 @@ I'm particularly interested in **backend architecture, API design, authenticatio
 
 ### Languages
 
-<p>
-  <img src="https://cdn.simpleicons.org/java" alt="Java" height="28"/>
-  <strong>SQL</strong>
-  <img src="https://cdn.simpleicons.org/python" alt="Python" height="28"/>
-</p>
-
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" height="28"/> <strong>SQL</strong> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="28"/> </p>
 
 ### Backend
 
