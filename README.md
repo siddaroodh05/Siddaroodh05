@@ -24,9 +24,10 @@ I'm particularly interested in **backend architecture, API design, authenticatio
 
 <p>
   <img src="https://cdn.simpleicons.org/java" alt="Java" height="28"/>
+  <strong>SQL</strong>
   <img src="https://cdn.simpleicons.org/python" alt="Python" height="28"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="SQL" height="28"/>
 </p>
+
 
 ### Backend
 
