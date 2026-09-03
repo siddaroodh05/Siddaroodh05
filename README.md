@@ -98,6 +98,6 @@ An AI-driven ATS platform built with **FastAPI, React, PostgreSQL, and Gemini**.
 
 ## 📫 Connect With Me
 
-* 📧 Email: [siddaroodhv@gmail.com](mailto:siddaroodhv@gmail.com)
+* 📧 Email: [siddaroodhv@gmail.com](mailto:siddaroodh2004@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/siddaroodh-venkatapur-821551262/)
 * 🌐 [Portfolio](https://siddaroodh-portfolio.vercel.app/)
