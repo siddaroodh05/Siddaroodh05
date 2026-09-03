@@ -67,7 +67,7 @@ A microservices-based banking backend built with **Java, Spring Boot, Spring Sec
 * Transaction management and rollback
 * REST APIs with validation and global exception handling
 
-🔗 [View Project](https://github.com/siddaroodh05)
+🔗 [View Project](https://github.com/digital-banking-platform/Core-Banking-System)
 
 ---
 
@@ -83,7 +83,7 @@ An AI-driven ATS platform built with **FastAPI, React, PostgreSQL, and Gemini**.
 * AI-generated MCQ assessments
 * Downloadable ATS reports
 
-🔗 [View Project](https://github.com/siddaroodh05)
+🔗 [View Project](https://github.com/siddaroodh05/ATS-Launchpad)
 
 ---
 
@@ -100,5 +100,4 @@ An AI-driven ATS platform built with **FastAPI, React, PostgreSQL, and Gemini**.
 
 * 📧 Email: [siddaroodhv@gmail.com](mailto:siddaroodhv@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/siddaroodh-venkatapur-821551262/)
-* 💻 [GitHub](https://github.com/siddaroodh05)
 * 🌐 [Portfolio](https://siddaroodh-portfolio.vercel.app/)
