@@ -67,17 +67,14 @@ An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, 
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/siddaroodh05" alt="Siddaroodh's contribution graph" />
+  <img src="https://ghchart.rshah.org/39d353/siddaroodh05" alt="Siddaroodh's contribution graph" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddaroodh05&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaroodh05&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddaroodh05&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=siddaroodh05&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 ---
 
