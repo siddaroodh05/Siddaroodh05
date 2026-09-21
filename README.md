@@ -20,6 +20,7 @@ Building concurrency-safe, secure backend systems end-to-end — from API design
 
 - 🏦 Building a microservices **Core Banking System** with Spring Security, JWT, RBAC, and optimistic locking
 - 🤖 Built an AI-driven ATS platform (resume analysis, skill-gap detection, AI-generated assessments) using Spring AI + GPT-OSS-20B
+- 🎮 Currently building a **RAG-based game recommendation system**
 - 🧠 300+ DSA problems solved on LeetCode (Java) · Gold-rated on HackerRank (Python)
 - ☁️ OCI 2025 Certified Generative AI Professional
 
@@ -66,7 +67,7 @@ An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, 
 
 ### 📂 Other Projects
 
-- **[fintech-transaction-platform](https://github.com/siddaroodh05/fintech-transaction-platform)** — Full-stack fintech app simulating banking flows (auth, accounts, fund transfers) on a modular microservices architecture
+- **[rag-game-recommendation-system](https://github.com/siddaroodh05/rag-game-recommendation-system)** *(in progress)* — Retrieval-augmented generation system for game recommendations
 - **[Stock-Portfolio-Optimization](https://github.com/siddaroodh05/Stock-Portfolio-Optimization)** — Portfolio optimization in Python/Jupyter
 - **[siddaroodh-portfolio](https://github.com/siddaroodh05/siddaroodh-portfolio)** — Personal portfolio site
 - **[DMart-Clone-React-E-Commerce](https://github.com/siddaroodh05/DMart-Clone-React-E-Commerce-Web-Application)** — Responsive React storefront (cart, search, categories, PDP)
