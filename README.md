@@ -55,12 +55,6 @@ An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, 
 ---
 
 ### 🧰 Tech Stack
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddaroodh05&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaroodh05&layout=compact&hide_border=true" />
-</p>
 
 **Languages:** Java · SQL · Python
 **Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · Microservices · API Gateway
@@ -68,6 +62,19 @@ An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, 
 **Tools:** Git · GitHub · Docker · Postman
 **Frontend:** React.js
 **Core CS:** DSA · OOP · DBMS · Operating Systems · Computer Networks
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddaroodh05&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaroodh05&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddaroodh05&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
