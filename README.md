@@ -1,103 +1,82 @@
-# Hi, I'm Siddaroodh 👋
+<h1 align="center">Hi, I'm Siddaroodh 👋</h1>
+<h3 align="center">Backend Software Engineer — Java · Spring Boot · PostgreSQL</h3>
 
-### Backend Software Engineer | Java • Spring Boot • PostgreSQL
-
-I'm a 2026 B.Tech Computer Science graduate focused on building backend systems with **Java and Spring Boot**.
-
-I'm particularly interested in **backend architecture, API design, authentication & authorization, transaction consistency, and concurrent systems**.
-
----
-
-## 🚀 What I'm Working On
-
-* 🔐 Building secure backend systems with **Spring Security, JWT, RBAC, and refresh-token rotation**
-* 🏦 Developing a **Core Banking System** using Spring Boot microservices
-* ⚙️ Working with **REST APIs, PostgreSQL, JPA/Hibernate, and API Gateway**
-* 🧩 Exploring backend reliability concepts such as **idempotency, transactions, and optimistic locking**
-* 🧠 Solving **300+ DSA problems on LeetCode using Java**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" height="28"/> <strong>SQL</strong> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="28"/> </p>
-
-### Backend
-
-<p>
-  <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" height="28"/>
-  <img src="https://cdn.simpleicons.org/springsecurity" alt="Spring Security" height="28"/>
-  <img src="https://cdn.simpleicons.org/hibernate" alt="Hibernate" height="28"/>
+<p align="center">
+Building concurrency-safe, secure backend systems end-to-end — from API design through load-testing and vulnerability discovery.
 </p>
 
-### Database & Tools
-
-<p>
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="28"/>
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" height="28"/>
-  <img src="https://cdn.simpleicons.org/git" alt="Git" height="28"/>
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="28"/>
-  <img src="https://cdn.simpleicons.org/postman" alt="Postman" height="28"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://cdn.simpleicons.org/react" alt="React" height="28"/>
+<p align="center">
+📧 <a href="mailto:siddaroodh2004@gmail.com">siddaroodh2004@gmail.com</a> ·
+💼 <a href="https://www.linkedin.com/in/siddaroodh-venkatapur-821551262/">LinkedIn</a> ·
+🌐 <a href="https://siddaroodh-portfolio.vercel.app/">Portfolio</a> ·
+🧩 <a href="https://leetcode.com/u/siddaroodh__2004/">LeetCode</a>
 </p>
 
 ---
 
-## 💻 Featured Projects
+### About Me
+
+2026 B.Tech CSE graduate (Alliance University, Bengaluru) seeking **Backend Engineer / SDE Intern** roles. I focus on backend architecture, authentication & authorization, transaction consistency, and concurrent systems — and I like proving my systems work with actual load tests, not just "it runs on my machine."
+
+- 🏦 Building a microservices **Core Banking System** with Spring Security, JWT, RBAC, and optimistic locking
+- 🤖 Built an AI-driven ATS platform (resume analysis, skill-gap detection, AI-generated assessments) using Spring AI + GPT-OSS-20B
+- 🧠 300+ DSA problems solved on LeetCode (Java) · Gold-rated on HackerRank (Python)
+- ☁️ OCI 2025 Certified Generative AI Professional
+
+---
 
 ### 🏦 Core Banking System
+**Java · Spring Boot · Spring Security · PostgreSQL · Redis**
 
-A microservices-based banking backend built with **Java, Spring Boot, Spring Security, and PostgreSQL**.
+A microservices banking backend (Auth, Account, Transaction) with 30+ REST endpoints, built around correctness under concurrency — not just CRUD.
 
-**Key areas:**
+- Fixed a **cross-user authorization gap** in idempotent request handling; verified fix with 10 simultaneous requests from 2 users sharing an idempotency key — **0 data leaks**
+- Engineered **optimistic locking** for transaction consistency — **100% balance accuracy** across 35 simultaneous concurrent requests
+- Implemented **database-enforced idempotent request handling**, eliminating duplicate transaction processing across 10 concurrent duplicate requests
+- JWT authentication with **refresh-token rotation**, RBAC, and centralized **API Gateway** routing
+- **Redis-backed rate limiting** (25 req/2min per user) at the gateway, returning structured 429 responses on abuse
 
-* JWT authentication with access & refresh tokens
-* Refresh-token rotation and session management
-* Role-Based Access Control (RBAC)
-* API Gateway with centralized security
-* Idempotent transaction processing
-* Optimistic locking for concurrent updates
-* Transaction management and rollback
-* REST APIs with validation and global exception handling
-
- [View Project](https://github.com/digital-banking-platform/Core-Banking-System)
+🔗 [Repo](https://github.com/digital-banking-platform/Core-Banking-System)
 
 ---
 
 ### 🤖 ATS Launchpad
+**Java 17 · Spring Boot · React · PostgreSQL · Spring AI · GPT-OSS-20B · Apache Tika · SSE**
 
-An AI-driven ATS platform built with **FastAPI, React, PostgreSQL, and Gemini**.
+An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, and resume-based skill tests.
 
-**Features:**
+- Integrated **GPT-OSS-20B** via Spring AI for resume/job-fit analysis and skill-gap detection
+- Implemented **real-time SSE streaming** with JWT-based auth for secure, progressive result delivery
+- Used **Apache Tika** for resume parsing across document formats
 
-* Resume/job-fit analysis
-* Skill-gap detection
-* Job matching
-* AI-generated MCQ assessments
-* Downloadable ATS reports
-
-[View Project](https://github.com/siddaroodh05/ATS-Launchpad)
+🔗 [Repo](https://github.com/siddaroodh05/ATS-Launchpad)
 
 ---
 
-## 🧠 Problem Solving
+### 🧰 Tech Stack
 
-* **300+ problems solved on LeetCode**
-* Primary language: **Java**
-
-[LeetCode Profile](https://leetcode.com/u/siddaroodh__2004/)
+**Languages:** Java · SQL · Python
+**Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · Microservices · API Gateway
+**Database:** PostgreSQL · Redis
+**Tools:** Git · GitHub · Docker · Postman
+**Frontend:** React.js
+**Core CS:** DSA · OOP · DBMS · Operating Systems · Computer Networks
 
 ---
 
-## 📫 Connect With Me
+### 📂 Other Projects
 
-* 📧 Email: [siddaroodh2004@gmail.com](mailto:siddaroodh2004@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/siddaroodh-venkatapur-821551262/)
-* 🌐 [Portfolio](https://siddaroodh-portfolio.vercel.app/)
+- **[fintech-transaction-platform](https://github.com/siddaroodh05/fintech-transaction-platform)** — Full-stack fintech app simulating banking flows (auth, accounts, fund transfers) on a modular microservices architecture
+- **[Stock-Portfolio-Optimization](https://github.com/siddaroodh05/Stock-Portfolio-Optimization)** — Portfolio optimization in Python/Jupyter
+- **[siddaroodh-portfolio](https://github.com/siddaroodh05/siddaroodh-portfolio)** — Personal portfolio site
+- **[DMart-Clone-React-E-Commerce](https://github.com/siddaroodh05/DMart-Clone-React-E-Commerce-Web-Application)** — Responsive React storefront (cart, search, categories, PDP)
+
+---
+
+### 🏆 Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — deploying, fine-tuning, and evaluating GenAI models on OCI, including prompt engineering
+
+---
+
+<p align="center"><i>Open to Backend Engineer / SDE Intern opportunities — feel free to reach out.</i></p>
