@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Siddaroodh 👋</h1>
+<h1 align="center">Hi, I'm SIDDAROODH 👋</h1>
 <h3 align="center">Backend Software Engineer — Java · Spring Boot · PostgreSQL</h3>
 
 <p align="center">
