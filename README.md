@@ -79,7 +79,7 @@ An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, 
 
 ### 📂 Other Projects
 
-- **[rag-game-recommendation-system](https://github.com/siddaroodh05/rag-game-recommendation-system)** *(in progress)* — Retrieval-augmented generation system for game recommendations
+- **[rag-game-recommendation-system](https://github.com/siddaroodh05/rag-game-recommendation-system)** — Retrieval-augmented generation system for game recommendations
 - **[Stock-Portfolio-Optimization](https://github.com/siddaroodh05/Stock-Portfolio-Optimization)** — Portfolio optimization in Python/Jupyter
 - **[siddaroodh-portfolio](https://github.com/siddaroodh05/siddaroodh-portfolio)** — Personal portfolio site
 - **[DMart-Clone-React-E-Commerce](https://github.com/siddaroodh05/DMart-Clone-React-E-Commerce-Web-Application)** — Responsive React storefront (cart, search, categories, PDP)
