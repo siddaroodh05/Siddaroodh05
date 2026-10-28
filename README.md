@@ -72,7 +72,7 @@ An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddaroodh05&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siddaroodh05&theme=react&date_format=M%20j%5B%2C%20Y%5D&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
 ---
