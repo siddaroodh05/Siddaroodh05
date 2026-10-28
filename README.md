@@ -182,6 +182,9 @@ Retrieval-augmented game recommendations, with LLM-generated queries and vector 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=siddaroodh05&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
+<p align="center">
+  <img src="https://github.pumbas.net/api/contributions/Siddaroodh05?bgColour=161B22" alt="Contributions" />
+</p>
 
 
 <p align="center">
