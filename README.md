@@ -178,35 +178,19 @@ Retrieval-augmented game recommendations, with LLM-generated queries and vector 
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddaroodh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaroodh05&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=siddaroodh05&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddaroodh05&theme=tokyo-night&hide_border=true" alt="Activity graph" width="95%" />
-</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/siddaroodh__2004?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddaroodh05&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 <!-- Contribution snake: needs the workflow in .github/workflows/snake.yml -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddaroodh05/siddaroodh05/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddaroodh05/siddaroodh05/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/siddaroodh05/siddaroodh05/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+
 
 ---
 
