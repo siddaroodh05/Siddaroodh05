@@ -68,7 +68,7 @@ An AI-powered ATS platform: resume analysis, job matching, skill-gap detection, 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github.pumbas.net/api/contributions//Siddaroodh05?bgColour=161B22" alt="/Siddaroodh05's GitHub contributions" />
+https://github.pumbas.net/api/contributions/Siddaroodh05?bgColour=161B22
 </p>
 
 <p align="center">
