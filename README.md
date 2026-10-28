@@ -90,10 +90,12 @@ flowchart LR
     G --> A[Auth Service<br/>JWT + refresh rotation]
     G --> B[Account Service<br/>optimistic locking]
     G --> T[Transaction Service<br/>idempotent requests]
-    A --> D[(PostgreSQL)]
-    B --> D
-    T --> D
+    A --> DA[(Auth DB)]
+    B --> DB[(Account DB)]
+    T --> DT[(Transaction DB)]
 ```
+
+<sub>Database-per-service: each microservice owns its own PostgreSQL database.</sub>
 
 <details open>
 <summary><b>🔐 Security & Correctness Highlights</b></summary>
